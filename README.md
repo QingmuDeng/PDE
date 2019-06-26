@@ -17,4 +17,8 @@ Visualizations and computations in Mathematica for [Partial Differential Equatio
 
 * [Studio9.nb](https://github.com/QingmuDeng/PDE/blob/master/Studio9.nb): Poisson Kernel.
 
-* [Studio10.nb](https://github.com/QingmuDeng/PDE/blob/master/Studio9.nb): Heat equation with boundary conditions on a wedge.
+* [Studio10.nb](https://github.com/QingmuDeng/PDE/blob/master/Studio10.nb): Heat equation with boundary conditions on a wedge.
+
+* [E_M_Final.pdf](https://github.com/QingmuDeng/PDE/blob/master/E_M_Final.pdf): Applied PDE in Electricity and Magnetism; a summary of first nine chapter of D.J. Griffiths's Intro to Electrodynamics.
+
+* [E&M.nb](https://github.com/QingmuDeng/PDE/blob/master/E%26M.nb): Applied PDE in Electricity and Magnetism through Reflection and Refraction and Absorption and Dispersion of Electromagnetic Waves; accompanies the E&M summary.
